@@ -30,6 +30,16 @@ input {
   padding: 9px 17px;
   border: none;
 }
+button {
+  border-radius: 11px;
+  background-color: rgb(58, 65, 65);
+  width: 165px;
+  height: 57px;
+  border: none;
+  margin-bottom: 33px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
 .header {
   margin-top: 26px;
 }
@@ -39,4 +49,9 @@ input {
 }
 .form {
   width: 400px;
+}
+.footer {
+  background-color: #808080;
+  padding-top: 33px;
+  padding-bottom: 33px;
 }
